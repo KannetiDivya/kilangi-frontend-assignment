@@ -1,3 +1,8 @@
+Demo Live Links:
+https://kilangi-assignment.netlify.app/
+or
+https://kannetidivya.github.io/kilangi-frontend-assignment/
+
 📌 Frontend Assignment – eCommerce Homepage
 
 This project is a responsive eCommerce homepage developed as part of the Frontend Development Internship Assignment for GOTI.
